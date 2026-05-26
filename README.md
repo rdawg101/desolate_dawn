@@ -9,6 +9,7 @@ The player will have options to multiple weapons and will encounter multiple dif
     - leaderboard
     - settings
     - credits
+    - login - unique usernames, will show personal best in leaderboard screen
 - game screen (navigated to from play button)
     - wave number
     - zombie count
